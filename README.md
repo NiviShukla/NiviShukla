@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Cloning websites using Django**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **APIs**
 
 - 👯 I’m looking to collaborate on [Hotel_Management_System](https://github.com/NiviShukla/Hotel_Management_System.git)
 
